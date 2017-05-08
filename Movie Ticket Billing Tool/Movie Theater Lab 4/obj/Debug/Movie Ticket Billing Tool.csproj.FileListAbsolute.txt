@@ -1,0 +1,9 @@
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\obj\Debug\Movie Ticket Billing Tool.csprojResolveAssemblyReference.cache
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\obj\Debug\Movie_Theater_Lab_4.Properties.Resources.resources
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\obj\Debug\Movie Ticket Billing Tool.csproj.GenerateResource.Cache
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\obj\Debug\Movie Theater Lab 4.exe
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\obj\Debug\Movie Theater Lab 4.pdb
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\bin\Debug\Movie Theater Lab 4.exe.config
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\bin\Debug\Movie Theater Lab 4.exe
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\bin\Debug\Movie Theater Lab 4.pdb
+C:\Users\Zhen\Desktop\Movie Ticket Billing Tool\Movie Theater Lab 4\obj\Debug\Movie_Ticket_Billing_Tool.Form1.resources
