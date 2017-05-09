@@ -1,0 +1,7 @@
+1 Boulevard of Broken Dreams:  Studio  :  Downtown :  firePlace :  cat :  $300
+2 Rue Eau :  3 Rooms : West Island :  firePlace, laundromat, inPark, outPark :  cat, dog :  $300
+3 Rue Bol :  4 Rooms :   Lower Westmount :  inPark :  noPets :  $500
+4 St-Catherine :  5 Rooms : NDG :  firePlace :  cat :  noPets :  $1000
+5 The Water Street :  3 Rooms : Downtown :  firePlace :  cat :  noPets :  $1000
+6 Umbrella Street :  More than 5 rooms :  Downtown :  firePlace :  cat : noPets :  $1000
+7 Coach :   4 Rooms :  NDG :  East Island :  firePlace :  cat :  noPets :  $1000

@@ -1,0 +1,50 @@
+
+body{
+	background-color: #b3d9ff;
+}
+h1{
+	font-size: 200%;
+}
+#time{
+	font-size: 150%;
+}
+#footer{
+	background-color: #3AA8A3;
+	font-weight: bold;
+	text-align: center;
+}
+#one{
+	background-color: #9EE8A3;
+	border-color: #209F31;
+}
+#two{
+	background-color: #ffffb3;
+	border-color: #b3b300;
+}
+#three{
+	background-color: pink;
+	border-color: red;
+	visibility: hidden;
+}
+#first{
+	color:#209F31;
+	font-size: 120%;
+}
+#second{
+	color:#b3b300;
+	font-size: 120%;
+}
+#third{
+	color:red;
+	font-size: 120%;
+}
+/*#uname{
+    margin-top: 1px;
+    margin-right: 2px;
+    position:absolute;
+    top:0;
+    right:0;
+}*/
+#login{
+	text-align: center;
+}
